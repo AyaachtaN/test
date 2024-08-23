@@ -357,5 +357,8 @@ import { computed, onMounted } from 'vue'
 .container {
     padding: 10px;
     border: 1px solid  black;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
 }
 </style>
